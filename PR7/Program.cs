@@ -428,7 +428,6 @@ namespace ПР7
                         Console.WriteLine("Вы вышли из аккаунта");
                     }
                 }
-
                 Pause();
             }
         }
